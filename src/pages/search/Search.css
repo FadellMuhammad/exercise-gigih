@@ -1,0 +1,23 @@
+.title {
+    display: flex;
+    justify-content: center;
+    margin: 100px;
+}
+
+.input {
+    width: 240px;
+    height: 40px;
+    border-radius: 20px 0 0 20px;
+    padding: 5px 15px;
+    font-size: 15px;
+}
+
+.btn {
+    width: 130px;
+    border-radius: 0 20px 20px 0;
+    font-size: 15px;
+    cursor: pointer;
+    background-color: #163d6c;
+    color:white;
+    font-weight: bold;
+}

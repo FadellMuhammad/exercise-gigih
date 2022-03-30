@@ -9,3 +9,9 @@ Exercise : bikin component dan props
 Exercise : loop gif component
 
 -------------------------------------
+
+30/03/2022 - module 3 session 2
+
+Exercise : convert to component using hook
+
+-------------------------------------------
