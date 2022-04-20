@@ -1,12 +1,14 @@
 import React from 'react'
 
-const GifComp = ({title, url}) => {
-    return (
-        <>
-            <h1>{title}</h1>
-            <img src={url} alt={title} />
-        </>
-    )
+const GifComp = ({data}) => {
+
+  console.log(data)
+  return (
+    <>
+      <h1>{data.title}</h1>
+      <img src={data.images.original.url} alt={data.title} />
+    </>
+  )
 }
 
 export default GifComp

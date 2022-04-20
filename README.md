@@ -15,3 +15,7 @@ Exercise : loop gif component
 Exercise : convert to component using hook
 
 -------------------------------------------
+
+01/04/2022 - module 3 session 3
+
+Exercise : bikin component di lifting state
